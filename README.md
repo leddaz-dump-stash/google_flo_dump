@@ -1,0 +1,14 @@
+# razor-user 6.0.1 MOB30X 3036618 release-keys
+- manufacturer: asus
+- platform: msm8960
+- codename: flo
+- flavor: razor-user
+- release: 6.0.1
+- id: MOB30X
+- incremental: 3036618
+- tags: release-keys
+- fingerprint: google/razor/flo:6.0.1/MOB30X/3036618:user/release-keys
+- is_ab: false
+- brand: google
+- branch: razor-user-6.0.1-MOB30X-3036618-release-keys
+- repo: google_flo_dump
